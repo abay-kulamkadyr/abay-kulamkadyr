@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Hi there, I’m **Abay**!  
+# Hi there 👋, I’m **Abay**!  
 **Software Engineer @SpaceVela**
 
 [LinkedIn](https://www.linkedin.com/in/abay-kulamkadyr) | [Email](mailto:kulamkadyr.abay@gmail.com)

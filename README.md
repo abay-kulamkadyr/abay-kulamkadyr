@@ -40,8 +40,8 @@
 - Frameworks: React, Node.js, FastAPI, Flask, Django
 - Tools & Platforms: GitHub, Docker, Git, Linux, Nvim
 - Core Strengths: Systems Programming, Embedded Linux, Parallel Computing
-
-🌱 About Me
+```
+## 🌱 About Me
 
 I’m a junior software engineer at Spacevela. My passion lies in continuous learning, exploring everything from systems programming to low-level hardware and parallel computing. I thrive on solving complex challenges—whether it’s improving user experience or optimizing embedded devices.
 

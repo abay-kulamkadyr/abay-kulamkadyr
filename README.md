@@ -6,6 +6,10 @@
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:kulamkadyr.abay@gmail.com)
 ---
 
+## 🌱 About Me
+
+I’m a junior software engineer at Spacevela. My passion lies in continuous learning, exploring everything from systems programming to low-level hardware and parallel computing. I thrive on solving complex challenges—whether it’s improving user experience or optimizing embedded devices.
+
 ## 🚀 Key Projects
 
 ### 3D Detection System
@@ -42,9 +46,6 @@
 - Tools & Platforms: GitHub, Docker, Git, Linux, Nvim
 - Core Strengths: Systems Programming, Embedded Linux, Parallel Computing
 ```
-## 🌱 About Me
-
-I’m a junior software engineer at Spacevela. My passion lies in continuous learning, exploring everything from systems programming to low-level hardware and parallel computing. I thrive on solving complex challenges—whether it’s improving user experience or optimizing embedded devices.
 
 Interested in collaborating or have questions?
 Reach out via Email or connect on LinkedIn!

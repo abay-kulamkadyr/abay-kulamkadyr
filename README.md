@@ -1,8 +1,10 @@
-# Hi there 👋, I’m **Abay**!  
-**Software Engineer @SpaceVela**
+#Abay Kulamkadyr
 
-[LinkedIn](https://www.linkedin.com/in/abay-kulamkadyr) | [Email](mailto:kulamkadyr.abay@gmail.com)
+> Software Engineer @SpaceVela
 
+[LinkedIn]() | [Email](mailto:kulamkadyr.abay@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/abay-kulamkadyr)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:kulamkadyr.abay@gmail.com)
 ---
 
 ## 🚀 Key Projects

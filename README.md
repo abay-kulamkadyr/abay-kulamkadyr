@@ -1,4 +1,4 @@
-#Abay Kulamkadyr
+# Abay Kulamkadyr
 
 > Software Engineer @SpaceVela
 

@@ -8,7 +8,7 @@
 
 ## 🌱 About Me
 
-I’m a junior software engineer at Spacevela. My passion lies in continuous learning, exploring everything from systems programming to low-level hardware and parallel computing. I thrive on solving complex challenges—whether it’s improving user experience or optimizing embedded devices.
+I’m a junior software engineer at SpaceVela. My passion lies in continuous learning, exploring everything from systems programming to low-level hardware and parallel computing. I thrive on solving complex challenges—whether it’s improving user experience or optimizing embedded devices.
 
 ## 🚀 Key Projects
 

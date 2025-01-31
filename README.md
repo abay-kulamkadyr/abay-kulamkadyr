@@ -4,6 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/abay-kulamkadyr)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:kulamkadyr.abay@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-green)](https://leetcode.com/u/aubakich)
 ---
 
 ## 🌱 About Me

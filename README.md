@@ -9,7 +9,7 @@
 
 ## 🌱 About Me
 
-I’m a junior software engineer at SpaceVela. My passion lies in continuous learning, exploring everything from systems programming to low-level hardware and parallel computing. I thrive on solving complex challenges—whether it’s improving user experience or optimizing embedded devices.
+I’m a software engineer at SpaceVela. My passion lies in continuous learning, exploring everything from systems programming to low-level hardware and parallel computing. I thrive on solving complex challenges—whether it’s improving user experience or optimizing embedded devices.
 
 ## 🚀 Key Projects
 
@@ -17,7 +17,6 @@ I’m a junior software engineer at SpaceVela. My passion lies in continuous lea
 - **Overview**: Developed a real-time anomaly detection system for a 3D printer designed to operate in space.  
 - **Focus**: Embedded systems, sensor data analysis, and high-reliability software.  
 - **Highlights**: Implemented fault-tolerant algorithms to detect irregularities under extreme conditions.  
-- [GitHub: View Project](https://github.com/abay-kulamkadyr/3dprinter_fault_detection)
 
 ---
 

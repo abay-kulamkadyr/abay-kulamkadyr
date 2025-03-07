@@ -13,13 +13,6 @@ I’m a software engineer at SpaceVela. My passion lies in continuous learning, 
 
 ## 🚀 Key Projects
 
-### 3D Detection System
-- **Overview**: Developed a real-time anomaly detection system for a 3D printer designed to operate in space.  
-- **Focus**: Embedded systems, sensor data analysis, and high-reliability software.  
-- **Highlights**: Implemented fault-tolerant algorithms to detect irregularities under extreme conditions.  
-
----
-
 ### Embedded Music Player
 - **Overview**: Built a compact music player running on minimal hardware resources.  
 - **Focus**: Low-level driver integration, efficient use of memory, and real-time audio streaming.  
@@ -42,7 +35,7 @@ I’m a software engineer at SpaceVela. My passion lies in continuous learning, 
 
 ```yaml
 - Languages: C, C++, Python, JavaScript
-- Frameworks: React, Node.js, FastAPI, Flask, Django
+- Frameworks: React, Node.js, Flask, Django
 - Tools & Platforms: GitHub, Docker, Git, Linux, Nvim
 - Core Strengths: Systems Programming, Embedded Linux, Parallel Computing
 ```

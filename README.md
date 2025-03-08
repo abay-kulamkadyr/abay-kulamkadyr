@@ -1,16 +1,17 @@
 # Abay Kulamkadyr
-
-> Software Engineer @SpaceVela
-<p align="left">
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Time+New+Roman&size=25&width=600&height=100&lines=Software+Engineer;Continuous+learning)](https://git.io/typing-svg)
-
-</p>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/abay-kulamkadyr)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:kulamkadyr.abay@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-green)](https://leetcode.com/u/aubakich)
 ---
+> Software Engineer @SpaceVela
+> 
+
+
+<p align="left">
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Time+New+Roman&size=25&color=%23000000&width=600&lines=Software+Engineer;Continuous+learning)](https://git.io/typing-svg)
+
+</p>
 
 ## 🌱 About Me
 

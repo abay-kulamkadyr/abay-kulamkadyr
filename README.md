@@ -1,6 +1,11 @@
 # Abay Kulamkadyr
 
 > Software Engineer @SpaceVela
+<p align="left">
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Time+New+Roman&size=25&width=600&height=100&lines=Software+Engineer;Continuous+learning)](https://git.io/typing-svg)
+
+</p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/abay-kulamkadyr)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:kulamkadyr.abay@gmail.com)
@@ -30,8 +35,12 @@ I’m a software engineer at SpaceVela. My passion lies in continuous learning, 
   - Strengthened understanding of **search algorithms**, **heuristics**, and distributed decision-making.
 - [GitHub: View Project](https://github.com/abay-kulamkadyr/improved_cbs_multi_agent_path_finding)
 
-
 ## 🛠️ Tech Stack
+<p align='left'>
+  
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=abay-kulamkadyr&layout=compact&langs_count=8">
+
+</p>
 
 ```yaml
 - Languages: C, C++, Python, JavaScript
@@ -39,6 +48,5 @@ I’m a software engineer at SpaceVela. My passion lies in continuous learning, 
 - Tools & Platforms: GitHub, Docker, Git, Linux, Nvim
 - Core Strengths: Systems Programming, Embedded Linux, Parallel Computing
 ```
-
 Interested in collaborating or have questions?
 Reach out via Email or connect on LinkedIn!

@@ -22,7 +22,7 @@ I’m a software engineer at SpaceVela. My passion lies in continuous learning, 
 ### Embedded Music Player
 - **Overview**: Built a compact music player running on minimal hardware resources.  
 - **Focus**: Low-level driver integration, efficient use of memory, and real-time audio streaming.  
-- **Highlights**: Gained hands-on experience in **C/C++**, audio codec handling, and embedded Linux environments.  
+- **Highlights**: Gained hands-on experience in **C/C++**, audio processing, and embedded Linux environments.  
 - [GitHub: View Project](https://github.com/abay-kulamkadyr/embedded_system_audio_player)
 
 ---

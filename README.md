@@ -9,7 +9,7 @@
 
 <p align="left">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Time+New+Roman&size=25&color=%23000000&width=600&lines=Software+Engineer;Continuous+learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Time+New+Roman&size=25&color=%23FFFFFF&width=600&lines=Software+Engineer;Continuous+learning)](https://git.io/typing-svg)
 
 </p>
 

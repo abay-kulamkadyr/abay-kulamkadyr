@@ -7,7 +7,7 @@
 > 
 
 
-<p align="left">
+<p align="center">
   
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Time+New+Roman&size=25&color=%23FFFFFF&width=600&lines=Software+Engineer;Continuous+learning)](https://git.io/typing-svg)
 
@@ -37,9 +37,9 @@ I’m a software engineer at SpaceVela. My passion lies in continuous learning, 
 - [GitHub: View Project](https://github.com/abay-kulamkadyr/improved_cbs_multi_agent_path_finding)
 
 ## 🛠️ Tech Stack
-<p align='left'>
+<p align='center'>
   
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=abay-kulamkadyr&layout=compact&langs_count=8">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=abay-kulamkadyr&layout=compact&theme=radical&langs_count=8">
 
 </p>
 

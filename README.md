@@ -4,8 +4,6 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-green)](https://leetcode.com/u/aubakich)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abay-kulamkadyr&label=Profile%20views&color=0e75b6&style=flat" alt="abay-kulamkadyr" /> </p>
 ---
-> Software Engineer @SpaceVela
-> 
 
 <p align="center">
   

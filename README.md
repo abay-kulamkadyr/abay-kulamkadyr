@@ -12,7 +12,7 @@
 
 ## 🌱 About Me
 
-I’m a software engineer at SpaceVela. My passion lies in continuous learning, exploring everything from systems programming to low-level hardware and parallel computing. I thrive on solving complex challenges—whether it’s improving user experience or optimizing embedded devices.
+I’m a Java Developement Trainee at EPAM Systems. My passion lies in continuous learning, exploring everything from systems programming to low-level hardware and parallel computing. I thrive on solving complex challenges—whether it’s improving user experience or optimizing embedded devices.
 
 ## 🚀 Key Projects
 
@@ -41,8 +41,8 @@ I’m a software engineer at SpaceVela. My passion lies in continuous learning, 
 </p>
 
 ```yaml
-- Languages: C, C++, Python, JavaScript
-- Frameworks: React, Node.js, Flask, Django
+- Languages: Java, C, C++, Python, JavaScript
+- Frameworks: Spring Boot, React, Node.js, Flask, Django
 - Tools & Platforms: GitHub, Docker, Git, Linux, Nvim
 - Core Strengths: Systems Programming, Embedded Linux, Parallel Computing
 ```

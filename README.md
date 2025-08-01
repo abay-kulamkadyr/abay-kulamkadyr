@@ -4,7 +4,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-green)](https://leetcode.com/u/aubakich)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abay-kulamkadyr&label=Profile%20views&color=0e75b6&style=flat" alt="abay-kulamkadyr" /> </p>
 
-<p align="center">
+<p align="left">
   
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Time+New+Roman&size=25&color=%23FFFFFF&width=600&lines=Software+Engineer;Continuous+learning)](https://git.io/typing-svg)
 
@@ -16,9 +16,9 @@ I’m a Java Developement Trainee at EPAM Systems. My passion lies in continuous
 
 
 ## 🛠️ Tech Stack
-<p align='center'>
+<p align='left'>
   
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=abay-kulamkadyr&layout=compact&theme=tokyonight&langs_count=8">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=abay-kulamkadyr&layout=compact&theme=buefy&langs_count=8">
 
 </p>
 

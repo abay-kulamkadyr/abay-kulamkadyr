@@ -6,8 +6,7 @@
 
 <p align="left">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Time+New+Roman&size=25&color=%23FFFFFF&width=600&lines=Software+Engineer;Continuous+learning)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=25&pause=1000&color=000000&width=435&lines=Software+Engineer;Continuous+Learning+)](https://git.io/typing-svg) 
 </p>
 
 ## 🌱 About Me
